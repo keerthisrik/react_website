@@ -1,1 +1,1 @@
-# react_website
+The **React eCommerce website** provides a dynamic and interactive shopping experience using **React.js**. It includes **product listings, a shopping cart, and a checkout system**, ensuring smooth user navigation. The website is **responsive**, leveraging React components for a fast and seamless UI.
